@@ -1,0 +1,390 @@
+100 56
+
+
+
+
+
+
+
+
+
+                                    .                                             ..gNJ.
+                                    HN,                                          .MMMMMF
+                                    JMMMa.                                     .dMMMMM#` ..dMN,
+                                    .MMMMMm,                                  .MMMMMMF .dMMMMMM
+                                    ,MMMMMMMN,                               .MMMMMMF.dMMMMMMM^
+                                    ,MMMMMMMMMm,                     .MMMN&. dMMMMMMNMMMMMMM"
+                                    ,MMMMMMMMMMMa.                   TMMMMMMgMMMMMMMMMMMMM3    `
+                                    ,MMMMMMMMMMMMM,                   .UMMMMMMMMMMMMMMMMMu.gMMMMMN,
+                                    ,MMMMMMMMMMMMMMN,                   dMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                    ,MMMMMMMMMMMMMMMMb                  ,MMMMMMMMMMMMMMMMMMMMMM""^
+                                    JMMMMMMMMMMMMMMMMMN,                ,MMMMMMMMMMMMMMMMM"!
+                                    JMMMMMMMMMMMMMMMMMMMp                dMMMMMMMMMMMMMM"
+                                    gMMMMMMMMMMMMMMMMMMMMN,             .MMMMMMMMMMMMMD
+                                    dMMMMMH5==lltrrZMMMMMMM,          .JMMB=` `"""""!
+                                    MMMM@?`.?=llttrzuXMN`.MMp      ..MMB^
+                                   .MMM8==??==lltrrzuuMM;  WMm...JMM#=
+                                   .MMMOllllllttrrzuuZMM`   WMMMMMMt
+                                   JMMMKrttttrrrwwWppNMF     WMMMMF
+                                   dMMMMmvvvvvvwpppWNMD       WMMM$
+                                  .MM# ?MNNmXXXXQNMM@`         WMMF
+                                 .MMMt   .""MMMM""!             MMN
+                                .MMMM                           .MMp
+                               .MMMMF                            JMM,
+                              JMMMMM'                             4MN.
+                            .MMB?MM#                               MMb
+                            dMF .MM%                               ,MM;
+                            MM` JMM                                 WMN
+                            dM, MMF                                 .MM|
+                            ,MN.MM\                                  dMN
+                             dMMM#                                   ,MM,
+                             JMMMF                                    MMr
+                             JMMM:                                    dMN
+                           `.MMM#                                     JMN
+                         `.JMMMMF                                     ,MM.
+                         .MMMMMM%                .....                .MM:
+                         MMMMMMM`           ..gMMMMMMMMNa,            .MM:
+                          TWH4M#          .MMMM""!    ?TMMN,          JMM:
+                             JM#       ..MMM"`           ,WMN,        JMM`
+                             JM#     .JMM@'                JMMb       dM#
+                             JMN.  .dMM"                     WMN,    .MMF
+                             ,MMMMMM#^                        7MM,   JMM`
+                               7""!                            ,MMMMMM@`
+                                                                 .7?`
+
+
+
+\newframe
+
+
+
+
+
+
+                                                                           ...
+                                                                        `.MMMMb  `.JNJ.
+                                                                        .MMMMMF  .MMMMN
+                                    .                                   dMMMMM!.dMMMMMF
+                                    HN,                                .MMMMM#.MMMMMMF
+                                    JMMMa.                             JMMMMM@dMMMMMF  ..J&.,
+                                    .MMMMMm,                         ` MMMMMMMMMMMM# .MMMMMMMr
+                                    ,MMMMMMMN,                  .gNNa,.MMMMMMMMMMMMNMMMMMMMMD
+                                    ,MMMMMMMMMm,               .MMMMMMMMMMMMMMMMMMMMMMMMM"!
+                                    ,MMMMMMMMMMMa.              ?YMMMMMMMMMMMMMMMMMMMMM^
+                                    ,MMMMMMMMMMMMM,                .WMMMMMMMMMMMMMMMM@
+                                    ,MMMMMMMMMMMMMMN,                MMMMMMMMMMMMMMM@
+                                    ,MMMMMMMMMMMMMMMMb               ,MMMMMMMMMMMMM@
+                                    JMMMMMMMMMMMMMMMMMN,               MMMMMMMMMM#^
+                                    JMMMMMMMMMMMMMMMMMMMp              MMM@=```
+                                    gMMMMMMMMMMMMMMMMMMMMN,          .dM@`
+                                    dMMMMMH5==lltrrZMMMMMMM,        .MM^
+                                    MMMM@?`.?=llttrzuXMN`.MMp     .JMF
+                                   .MMM8==??==lltrrzuuMM;  WMm...+MM$
+                                   .MMMOllllllttrrzuuZMM`   WMMMMMMt
+                                   JMMMKrttttrrrwwWppNMF     WMMMMF
+                                   dMMMMmvvvvvvwpppWNMD       WMMM$
+                                  .MM# ?MNNmXXXXQNMM@`         WMMF
+                                 .MMMt   .""MMMM""!             MMN
+                                .MMMM                           .MMp
+                               .MMMMF                            JMM,
+                              JMMMMM'                             4MN.
+                            .MMB?MM#                               MMb
+                            dMF .MM%                               ,MM;
+                            MM` JMM                                 WMN
+                            dM, MMF                                 .MM|
+                            ,MN.MM\                                  dMN
+                             dMMM#                                   ,MM,
+                             JMMMF                                    MMr
+                             JMMM:                                    dMN
+                           `.MMM#                                     JMN
+                         `.JMMMMF                                     ,MM.
+                         .MMMMMM%                .....                .MM:
+                         MMMMMMM`           ..gMMMMMMMMNa,            .MM:
+                          TWH4M#          .MMMM""!    ?TMMN,          JMM:
+                             JM#       ..MMM"`           ,WMN,        JMM`
+                             JM#     .JMM@'                JMMb       dM#
+                             JMN.  .dMM"                     WMN,    .MMF
+                             ,MMMMMM#^                        7MM,   JMM`
+                               7""!                            ,MMMMMM@`
+                                                                 .7?`
+
+
+\newframe
+
+
+
+
+
+                                                                  ..    .MMN,
+                                                                JMMMb  .MMMMM.
+                                                               .MMMMN  MMMMMM
+                                                               JMMMMM..MMMMMF  ..MMMN,
+                                    .                          JMMMMMrJMMMMM\ .MMMMMMD
+                                    HN,                        ,MMMMMMMMMMMMlJMMMMM#^
+                                    JMMMa.                     .MMMMMMMMMMMMMMMMMM3
+                                    .MMMMMm,                    dMMMMMMMMMMMMMMMM^
+                                    ,MMMMMMMN,             ......MMMMMMMMMMMMMMMF
+                                    ,MMMMMMMMMm,          .MMMMMMMMMMMMMMMMMMMMM%
+                                    ,MMMMMMMMMMMa.        JMMMMMMMMMMMMMMMMMMMMM`
+                                    ,MMMMMMMMMMMMM,            7MMMMMMMMMMMMMMMD
+                                    ,MMMMMMMMMMMMMMN,            ?MMMMMMMMMMMM^
+                                    ,MMMMMMMMMMMMMMMMb             TMMMMMM""!
+                                    JMMMMMMMMMMMMMMMMMN,            .MMM^
+                                    JMMMMMMMMMMMMMMMMMMMp           .MM^
+                                    gMMMMMMMMMMMMMMMMMMMMN,         JMF
+                                    dMMMMMH5==lltrrZMMMMMMM,       .M@
+                                    MMMM@?`.?=llttrzuXMN`.MMp     .MM!
+                                   .MMM8==??==lltrrzuuMM;  WMm...+MM$
+                                   .MMMOllllllttrrzuuZMM`   WMMMMMMt
+                                   JMMMKrttttrrrwwWppNMF     WMMMMF
+                                   dMMMMmvvvvvvwpppWNMD       WMMM$
+                                  .MM# ?MNNmXXXXQNMM@`         WMMF
+                                 .MMMt   .""MMMM""!             MMN
+                                .MMMM                           .MMp
+                               .MMMMF                            JMM,
+                              JMMMMM'                             4MN.
+                            .MMB?MM#                               MMb
+                            dMF .MM%                               ,MM;
+                            MM` JMM                                 WMN
+                            dM, MMF                                 .MM|
+                            ,MN.MM\                                  dMN
+                             dMMM#                                   ,MM,
+                             JMMMF                                    MMr
+                             JMMM:                                    dMN
+                           `.MMM#                                     JMN
+                         `.JMMMMF                                     ,MM.
+                         .MMMMMM%                .....                .MM:
+                         MMMMMMM`           ..gMMMMMMMMNa,            .MM:
+                          TWH4M#          .MMMM""!    ?TMMN,          JMM:
+                             JM#       ..MMM"`           ,WMN,        JMM`
+                             JM#     .JMM@'                JMMb       dM#
+                             JMN.  .dMM"                     WMN,    .MMF
+                             ,MMMMMM#^                        7MM,   JMM`
+                               7""!                            ,MMMMMM@`
+                                                                 .7?`
+
+
+
+\newframe
+
+
+
+
+                                                             ...
+                                                            JMMMN,      ..
+                                                       ..   MMMMMb   .dMMMN
+                                                     .MMMb  MMMMMN  .MMMMMF
+                                                     MMMMMb JMMMMMr JMMMMM`
+                                    .                JMMMMMb.MMMMMN.MMMMM%
+                                    HN,               HMMMMMNdMMMMMMMMMMM.
+                                    JMMMa.            .MMMMMMMMMMMMMMMMMM|
+                                    .MMMMMm,           .MMMMMMMMMMMMMMMMMb
+                                    ,MMMMMMMN,           TMMMMMMMMMMMMMMMM.
+                                    ,MMMMMMMMMm,        ...MMMMMMMMMMMMMMM:
+                                    ,MMMMMMMMMMMa.   .JMMMMMMMMMMMMMMMMMM#
+                                    ,MMMMMMMMMMMMM,  JMMMMMMMMMMMMMMMMMM#`
+                                    ,MMMMMMMMMMMMMMN, TH""77TMMMMMMMMM@`
+                                    ,MMMMMMMMMMMMMMMMb         7"HMMMF
+                                    JMMMMMMMMMMMMMMMMMN,          ,MM\
+                                    JMMMMMMMMMMMMMMMMMMMp          dM|
+                                    gMMMMMMMMMMMMMMMMMMMMN,        JM%
+                                    dMMMMMH5==lltrrZMMMMMMM,       JM\
+                                    MMMM@?`.?=llttrzuXMN`.MMp     .MM!
+                                   .MMM8==??==lltrrzuuMM;  WMm...+MM$
+                                   .MMMOllllllttrrzuuZMM`   WMMMMMMt
+                                   JMMMKrttttrrrwwWppNMF     WMMMMF
+                                   dMMMMmvvvvvvwpppWNMD       WMMM$
+                                  .MM# ?MNNmXXXXQNMM@`         WMMF
+                                 .MMMt   .""MMMM""!             MMN
+                                .MMMM                           .MMp
+                               .MMMMF                            JMM,
+                              JMMMMM'                             4MN.
+                            .MMB?MM#                               MMb
+                            dMF .MM%                               ,MM;
+                            MM` JMM                                 WMN
+                            dM, MMF                                 .MM|
+                            ,MN.MM\                                  dMN
+                             dMMM#                                   ,MM,
+                             JMMMF                                    MMr
+                             JMMM:                                    dMN
+                           `.MMM#                                     JMN
+                         `.JMMMMF                                     ,MM.
+                         .MMMMMM%                .....                .MM:
+                         MMMMMMM`           ..gMMMMMMMMNa,            .MM:
+                          TWH4M#          .MMMM""!    ?TMMN,          JMM:
+                             JM#       ..MMM"`           ,WMN,        JMM`
+                             JM#     .JMM@'                JMMb       dM#
+                             JMN.  .dMM"                     WMN,    .MMF
+                             ,MMMMMM#^                        7MM,   JMM`
+                               7""!                            ,MMMMMM@`
+                                                                 .7?`
+
+
+
+\newframe
+
+
+
+
+
+                                                                  ..    .MMN,
+                                                                JMMMb  .MMMMM.
+                                                               .MMMMN  MMMMMM
+                                                               JMMMMM..MMMMMF  ..MMMN,
+                                    .                          JMMMMMrJMMMMM\ .MMMMMMD
+                                    HN,                        ,MMMMMMMMMMMMlJMMMMM#^
+                                    JMMMa.                     .MMMMMMMMMMMMMMMMMM3
+                                    .MMMMMm,                    dMMMMMMMMMMMMMMMM^
+                                    ,MMMMMMMN,             ......MMMMMMMMMMMMMMMF
+                                    ,MMMMMMMMMm,          .MMMMMMMMMMMMMMMMMMMMM%
+                                    ,MMMMMMMMMMMa.        JMMMMMMMMMMMMMMMMMMMMM`
+                                    ,MMMMMMMMMMMMM,            7MMMMMMMMMMMMMMMD
+                                    ,MMMMMMMMMMMMMMN,            ?MMMMMMMMMMMM^
+                                    ,MMMMMMMMMMMMMMMMb             TMMMMMM""!
+                                    JMMMMMMMMMMMMMMMMMN,            .MMM^
+                                    JMMMMMMMMMMMMMMMMMMMp           .MM^
+                                    gMMMMMMMMMMMMMMMMMMMMN,         JMF
+                                    dMMMMMH5==lltrrZMMMMMMM,       .M@
+                                    MMMM@?`.?=llttrzuXMN`.MMp     .MM!
+                                   .MMM8==??==lltrrzuuMM;  WMm...+MM$
+                                   .MMMOllllllttrrzuuZMM`   WMMMMMMt
+                                   JMMMKrttttrrrwwWppNMF     WMMMMF
+                                   dMMMMmvvvvvvwpppWNMD       WMMM$
+                                  .MM# ?MNNmXXXXQNMM@`         WMMF
+                                 .MMMt   .""MMMM""!             MMN
+                                .MMMM                           .MMp
+                               .MMMMF                            JMM,
+                              JMMMMM'                             4MN.
+                            .MMB?MM#                               MMb
+                            dMF .MM%                               ,MM;
+                            MM` JMM                                 WMN
+                            dM, MMF                                 .MM|
+                            ,MN.MM\                                  dMN
+                             dMMM#                                   ,MM,
+                             JMMMF                                    MMr
+                             JMMM:                                    dMN
+                           `.MMM#                                     JMN
+                         `.JMMMMF                                     ,MM.
+                         .MMMMMM%                .....                .MM:
+                         MMMMMMM`           ..gMMMMMMMMNa,            .MM:
+                          TWH4M#          .MMMM""!    ?TMMN,          JMM:
+                             JM#       ..MMM"`           ,WMN,        JMM`
+                             JM#     .JMM@'                JMMb       dM#
+                             JMN.  .dMM"                     WMN,    .MMF
+                             ,MMMMMM#^                        7MM,   JMM`
+                               7""!                            ,MMMMMM@`
+                                                                 .7?`
+
+
+
+\newframe
+
+
+
+
+
+
+                                                                           ...
+                                                                        `.MMMMb  `.JNJ.
+                                                                        .MMMMMF  .MMMMN
+                                    .                                   dMMMMM!.dMMMMMF
+                                    HN,                                .MMMMM#.MMMMMMF
+                                    JMMMa.                             JMMMMM@dMMMMMF  ..J&.,
+                                    .MMMMMm,                         ` MMMMMMMMMMMM# .MMMMMMMr
+                                    ,MMMMMMMN,                  .gNNa,.MMMMMMMMMMMMNMMMMMMMMD
+                                    ,MMMMMMMMMm,               .MMMMMMMMMMMMMMMMMMMMMMMMM"!
+                                    ,MMMMMMMMMMMa.              ?YMMMMMMMMMMMMMMMMMMMMM^
+                                    ,MMMMMMMMMMMMM,                .WMMMMMMMMMMMMMMMM@
+                                    ,MMMMMMMMMMMMMMN,                MMMMMMMMMMMMMMM@
+                                    ,MMMMMMMMMMMMMMMMb               ,MMMMMMMMMMMMM@
+                                    JMMMMMMMMMMMMMMMMMN,               MMMMMMMMMM#^
+                                    JMMMMMMMMMMMMMMMMMMMp              MMM@=```
+                                    gMMMMMMMMMMMMMMMMMMMMN,          .dM@`
+                                    dMMMMMH5==lltrrZMMMMMMM,        .MM^
+                                    MMMM@?`.?=llttrzuXMN`.MMp     .JMF
+                                   .MMM8==??==lltrrzuuMM;  WMm...+MM$
+                                   .MMMOllllllttrrzuuZMM`   WMMMMMMt
+                                   JMMMKrttttrrrwwWppNMF     WMMMMF
+                                   dMMMMmvvvvvvwpppWNMD       WMMM$
+                                  .MM# ?MNNmXXXXQNMM@`         WMMF
+                                 .MMMt   .""MMMM""!             MMN
+                                .MMMM                           .MMp
+                               .MMMMF                            JMM,
+                              JMMMMM'                             4MN.
+                            .MMB?MM#                               MMb
+                            dMF .MM%                               ,MM;
+                            MM` JMM                                 WMN
+                            dM, MMF                                 .MM|
+                            ,MN.MM\                                  dMN
+                             dMMM#                                   ,MM,
+                             JMMMF                                    MMr
+                             JMMM:                                    dMN
+                           `.MMM#                                     JMN
+                         `.JMMMMF                                     ,MM.
+                         .MMMMMM%                .....                .MM:
+                         MMMMMMM`           ..gMMMMMMMMNa,            .MM:
+                          TWH4M#          .MMMM""!    ?TMMN,          JMM:
+                             JM#       ..MMM"`           ,WMN,        JMM`
+                             JM#     .JMM@'                JMMb       dM#
+                             JMN.  .dMM"                     WMN,    .MMF
+                             ,MMMMMM#^                        7MM,   JMM`
+                               7""!                            ,MMMMMM@`
+                                                                 .7?`
+
+
+\newframe
+
+
+
+
+
+
+
+
+
+                                    .                                             ..gNJ.
+                                    HN,                                          .MMMMMF
+                                    JMMMa.                                     .dMMMMM#` ..dMN,
+                                    .MMMMMm,                                  .MMMMMMF .dMMMMMM
+                                    ,MMMMMMMN,                               .MMMMMMF.dMMMMMMM^
+                                    ,MMMMMMMMMm,                     .MMMN&. dMMMMMMNMMMMMMM"
+                                    ,MMMMMMMMMMMa.                   TMMMMMMgMMMMMMMMMMMMM3    `
+                                    ,MMMMMMMMMMMMM,                   .UMMMMMMMMMMMMMMMMMu.gMMMMMN,
+                                    ,MMMMMMMMMMMMMMN,                   dMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                    ,MMMMMMMMMMMMMMMMb                  ,MMMMMMMMMMMMMMMMMMMMMM""^
+                                    JMMMMMMMMMMMMMMMMMN,                ,MMMMMMMMMMMMMMMMM"!
+                                    JMMMMMMMMMMMMMMMMMMMp                dMMMMMMMMMMMMMM"
+                                    gMMMMMMMMMMMMMMMMMMMMN,             .MMMMMMMMMMMMMD
+                                    dMMMMMH5==lltrrZMMMMMMM,          .JMMB=` `"""""!
+                                    MMMM@?`.?=llttrzuXMN`.MMp      ..MMB^
+                                   .MMM8==??==lltrrzuuMM;  WMm...JMM#=
+                                   .MMMOllllllttrrzuuZMM`   WMMMMMMt
+                                   JMMMKrttttrrrwwWppNMF     WMMMMF
+                                   dMMMMmvvvvvvwpppWNMD       WMMM$
+                                  .MM# ?MNNmXXXXQNMM@`         WMMF
+                                 .MMMt   .""MMMM""!             MMN
+                                .MMMM                           .MMp
+                               .MMMMF                            JMM,
+                              JMMMMM'                             4MN.
+                            .MMB?MM#                               MMb
+                            dMF .MM%                               ,MM;
+                            MM` JMM                                 WMN
+                            dM, MMF                                 .MM|
+                            ,MN.MM\                                  dMN
+                             dMMM#                                   ,MM,
+                             JMMMF                                    MMr
+                             JMMM:                                    dMN
+                           `.MMM#                                     JMN
+                         `.JMMMMF                                     ,MM.
+                         .MMMMMM%                .....                .MM:
+                         MMMMMMM`           ..gMMMMMMMMNa,            .MM:
+                          TWH4M#          .MMMM""!    ?TMMN,          JMM:
+                             JM#       ..MMM"`           ,WMN,        JMM`
+                             JM#     .JMM@'                JMMb       dM#
+                             JMN.  .dMM"                     WMN,    .MMF
+                             ,MMMMMM#^                        7MM,   JMM`
+                               7""!                            ,MMMMMM@`
+                                                                 .7?`
+
+
+

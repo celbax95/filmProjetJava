@@ -1,0 +1,10 @@
+Le fichier 'cm-player.jar' est une archive java exécutable contenant tout ce qui est nécessaire à l'exécution de cm-player. 
+
+Vous n'avez pas à la décompresser pour exécuter le programme qu'elle contient. Il vous suffit de double cliquer sur l'icone.
+
+Notez bien que l'archive ne contient aucun fichier source.
+
+Le répertoire 'films' contient trois exemples de films que cm-player sait visualiser.
+
+Bon projet !
+D. Poitrenaud
